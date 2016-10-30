@@ -419,6 +419,7 @@ h6 {
     background-clip: padding-box;
   /* stops bg color from leaking outside the border: */
     display: block;
+    opacity: 0.3;	
 }
 
 .icon-item i {
@@ -426,8 +427,9 @@ h6 {
 }
 
 .icon-item.active {
-    background-color: #d8aa46;
+    background-color: #1F1F1F;
     color: white;
+    
 }
 
 ul.tabs {
