@@ -419,7 +419,7 @@ h6 {
     background-clip: padding-box;
   /* stops bg color from leaking outside the border: */
     display: block;
-    opacity: 0.3;	
+    opacity: 0.8;	
 }
 
 .icon-item i {
