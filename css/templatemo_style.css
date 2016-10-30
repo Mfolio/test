@@ -415,7 +415,7 @@ h6 {
     padding: 40px 30px;
     background-color: white;
     -webkit-border-radius: 10px;
-    border-radius: 10px;
+    border-radius: 25px;
     background-clip: padding-box;
   /* stops bg color from leaking outside the border: */
     display: block;
